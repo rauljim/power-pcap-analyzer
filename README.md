@@ -1,4 +1,4 @@
 power-pcap-analyzer
 ===================
 
-Parse data from Monsoon Power Monitor and tcpdump to generate network/power graphs.
+Parse data from Monsoon Power Monitor (.pt4) and tcpdump (.pcap) to generate network/power graphs.
