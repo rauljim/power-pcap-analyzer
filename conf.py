@@ -1,0 +1,2 @@
+BEGIN_S = 30 #150  #30
+END_S =   BEGIN_S + 30*60#BEGIN_S + 250 #30*60 + 30
